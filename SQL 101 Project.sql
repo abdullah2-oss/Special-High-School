@@ -20,7 +20,7 @@ CREATE TABLE students (
     student_email VARCHAR(100),
     academic_level INT,
     track VARCHAR(20),
-    comulative_gpa DECIMAL(5,2)
+    cumulative_gpa DECIMAL(5,2)
 );
 
 
