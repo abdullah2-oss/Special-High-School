@@ -100,7 +100,7 @@ INSERT INTO teachers VALUES
 
 
 -- 8. إضافة بيانات 6 مواد
-INSERT INTO subjects VALUES
+INSERT INTO courses VALUES
 (1, 'الرياضيات'),
 (2, 'الفيزياء'),
 (3, 'الكيمياء'),
@@ -114,7 +114,7 @@ SELECT * FROM students;
 
 SELECT * FROM teachers;
 
-SELECT * FROM subjects;
+SELECT * FROM courses;
 
 
 -- 10. عرض الطلاب بترتيب تصاعدي حسب الاسم
